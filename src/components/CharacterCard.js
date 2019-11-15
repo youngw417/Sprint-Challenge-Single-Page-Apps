@@ -14,9 +14,9 @@ export default function CharacterCard(props) {
 
 
     <Col sm ="4">
-      <Card className = "charater-card" style = {{marginBottom: '40px'}}>
-            <CardImg top width = "70%" src ={character.image} alt ="character" style = {{marginBottom: '20px'}}/>
-            <CardBody>
+      <Card className = "charater-card" style = {{marginBottom: '40px', width: '90%', textAlign: 'center', boxShadow: '5px 5px 10px #333', padding: '15px 6px'}}>
+            <CardImg top width = "70%" src ={character.image} alt ="character" style = {{marginBottom: '20px', marginTop: '20px'}}/>
+            <CardBody >
               <CardTitle> Name: {character.name}</CardTitle>
               <CardText>ID: {character.id}</CardText>
               

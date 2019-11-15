@@ -7,7 +7,7 @@ import WelcomePage from './components/WelcomePage';
 
 const WrapNav = styled.div`
 background-color: grey;
-height: 10vh;
+height: 15vh;
 color: white;
 margin: 0;
 padding: 20px;
