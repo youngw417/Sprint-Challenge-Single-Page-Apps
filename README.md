@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer:  client-side routing is fast without waiting for fetching data from the remote server and with controls of client side server.
 
 ## Project Set Up
 
